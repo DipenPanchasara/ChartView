@@ -1,7 +1,10 @@
 ---
 Title: DChartView
+
 Description: simple Line Chart Representation with Data.
+
 Author: Dipen Panchasara
+
 Tags: Objective-c, IOS, iPhone, iPad
 
 ---
@@ -18,7 +21,8 @@ Quartzcore.framework
 
 How to use it
 ==================
-Step !: Import Header to your ViewController
+
+Step 1: Import Header to your ViewController
 
 #import "DPlotChart.h"
 
