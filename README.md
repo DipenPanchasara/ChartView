@@ -24,7 +24,7 @@ How to use it
 
 Step 1: Import Header to your ViewController
 
-#import "DPlotChart.h"
+##import "DPlotChart.h"
 
 Step 2: Instantiate the object with frame
 
