@@ -1,5 +1,5 @@
 ---
-Title: Solarized
+Title: DChartView
 Description: simple Line Chart Representation with Data.
 Author: Dipen Panchasara
 Tags: Objective-c, IOS, iPhone, iPad
