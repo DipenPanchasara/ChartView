@@ -40,4 +40,6 @@ Step 4: Add Chart to your view
 
 Thats all, it will do remaining..
 
-http://stackoverflow.com/users/990070/dipen-panchasara
+<a href="http://stackoverflow.com/users/990070/dipen-panchasara">
+<img src="http://stackoverflow.com/users/flair/990070.png" width="208" height="58" alt="profile for Dipen Panchasara at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Dipen Panchasara at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+</a>
