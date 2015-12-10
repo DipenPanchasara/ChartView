@@ -39,3 +39,5 @@ Step 4: Add Chart to your view
     [self.view addSubview:plotChart];
 
 Thats all, it will do remaining..
+
+http://stackoverflow.com/users/990070/dipen-panchasara
